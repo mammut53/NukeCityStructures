@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "nukecitystructures",
+    "name": "NukeCityStructures",
+    "description": "Structures of the modpack NukeCity",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "mammut53"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
